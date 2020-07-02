@@ -4,6 +4,7 @@
 ## A Linux Privilege Escalation Check Script
 ###  Orginal Author: Mike Czumak (T_v3rn1x) -- @SecuritySift
 ###  Current Maintainer: Michael Contino (@Sleventyeleven)
+### Updated for python3 by me
 
 This script is intended to be executed locally on a Linux box to enumerate basic system info and
 search for common privilege escalation vectors such as world writable files, misconfigurations, clear-text
